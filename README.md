@@ -21,17 +21,12 @@ Form submissions are handled via PHP and stored in a MySQL database.
 Instant success popup displayed without page reload.
 
 **Services Pages**
-
-**Stay Safe
-**
-**Tips for Parents
-**
+**Stay Safe**
+**Tips for Parents**
 **Safe Livestreaming**
-
 **Legislation & Guidance**
 
-**Membership Section
-**
+**Membership Section**
 Users can register as members to receive updates and newsletters.
 
 **Footer**
