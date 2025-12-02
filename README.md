@@ -1,3 +1,5 @@
+**Hosted on:** https://social-media-account.ct.ws/home.php
+
 **Overview**
 
 The Social Media Campaign (SMC) Website is a web platform designed to provide guidance, support, and educational resources for safe social media usage. It targets teenagers and parents, offering tips, legal guidance, and safe practices while interacting online. Users can also contact the SMC team directly through the Contact Us form.
@@ -42,7 +44,7 @@ Copyright information
 
 Technologies Used
 
-Frontend
+**Frontend**
 
 HTML5
 
@@ -52,13 +54,13 @@ JavaScript (Form submission, hamburger menu toggle)
 
 Font Awesome (Icons)
 
-Backend
+**Backend**
 
 PHP (Form handling and database interaction)
 
 MySQL (Database for storing contact messages)
 
-Database Setup
+**Database Setup**
 
 Create a database on your hosting platform (e.g., InfinityFree) called if0_40553681_register.
 
@@ -80,7 +82,7 @@ $db1_user = "if0_40553681";
 $db1_pass = "oTk0JOjx59T";
 $db1_name = "if0_40553681_register";
 
-Installation & Deployment
+**Installation & Deployment**
 
 Clone or download the repository.
 
@@ -92,7 +94,7 @@ Verify that smc_formsubmission.php has the correct database credentials.
 
 Open contactUs.php in a browser and test the form.
 
-Usage
+**Usage**
 
 Navigate through the website using the top navigation bar.
 
@@ -100,7 +102,8 @@ Send a message via the contact form — you should see a success alert upon subm
 
 Explore different services and resources available for safe social media use.
 
-Folder Structure
+**Folder Structure**
+
 /smc-website
 │
 ├─ /images         # Logos, icons, and other images
